@@ -1,0 +1,10 @@
+C:\Users\malla\source\repos\Calcu Activity\bin\Debug\Calcu Activity.exe.config
+C:\Users\malla\source\repos\Calcu Activity\bin\Debug\Calcu Activity.exe
+C:\Users\malla\source\repos\Calcu Activity\bin\Debug\Calcu Activity.pdb
+C:\Users\malla\source\repos\Calcu Activity\obj\Debug\Calcu Activity.csprojAssemblyReference.cache
+C:\Users\malla\source\repos\Calcu Activity\obj\Debug\Calcu_Activity.Form1.resources
+C:\Users\malla\source\repos\Calcu Activity\obj\Debug\Calcu_Activity.Properties.Resources.resources
+C:\Users\malla\source\repos\Calcu Activity\obj\Debug\Calcu Activity.csproj.GenerateResource.cache
+C:\Users\malla\source\repos\Calcu Activity\obj\Debug\Calcu Activity.csproj.CoreCompileInputs.cache
+C:\Users\malla\source\repos\Calcu Activity\obj\Debug\Calcu Activity.exe
+C:\Users\malla\source\repos\Calcu Activity\obj\Debug\Calcu Activity.pdb
